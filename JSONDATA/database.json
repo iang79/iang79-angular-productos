@@ -1,0 +1,10 @@
+{
+    "datos-personales": [
+      {
+        "id": 1,
+        "nombre": "A",
+        "edad": 30,
+        "sexo": "H"
+      }
+    ]
+  }
