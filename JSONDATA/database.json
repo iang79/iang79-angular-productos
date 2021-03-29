@@ -1,10 +1,19 @@
 {
-    "datos-personales": [
-      {
-        "id": 1,
-        "nombre": "A",
-        "edad": 30,
-        "sexo": "H"
-      }
-    ]
-  }
+  "products": [
+    {
+      "name": "A",
+      "description": "oytra prueba",
+      "id": 1
+    },
+    {
+      "name": "froga",
+      "description": "esto es una prueba",
+      "id": 2
+    },
+    {
+      "name": "acsSC",
+      "description": "acsS",
+      "id": 4
+    }
+  ]
+}
